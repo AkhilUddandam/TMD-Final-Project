@@ -1,6 +1,5 @@
-# TMD-Final-Project
+# Tech, Media, and Democracy Final Project
 # Election Monitoring and Disinformation: A Comprehensive Data Analysis Report
-# Tech, Media, and Democracy
 
 Akhil Uddandam (ECE) | Rohit George (MBA) |Purushottam Chandra (MBA) | Grace Liu (ORIE) | Jigar Jain (MBA) | Rahul Rai (MBA)
 
